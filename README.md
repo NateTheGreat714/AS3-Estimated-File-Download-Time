@@ -2,7 +2,7 @@
  An example of an ActionScript 3.0 class that can calculate a user's download speed, which can then be used to determine the total time left for a specific file to be downloaded.
 
 <strong>NOTE:</strong>
-<p>Currently has a runtime error of #2044, which can be fixed but I don't feel like debugging it right now. The class included in this project can be easily used in any project since all the functions are static.</p>
+<p class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light">Currently has a runtime error of #2044, which can be fixed but I don't feel like debugging it right now. The class included in this project can be easily used in any project since all the functions are static.</p>
 
 -----
 
