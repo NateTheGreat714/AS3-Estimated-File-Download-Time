@@ -28,4 +28,5 @@ function onLoadProgress(e:ProgressEvent):void
 {
 	speedTxt.text = new String(NetworkSpeedUtil.calculateKBps(e.bytesLoaded, startTime, getTimer()-startTime)) + "KB/s";
 	percentTxt.text = new String(Math.round((e.bytesLoaded / e.bytesTotal) * 100)) + "%";
-}```
+}
+```
