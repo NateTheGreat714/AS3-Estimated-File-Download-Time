@@ -4,7 +4,7 @@
 
 <b>NOTE:</b>
 
-<center>Currently has a runtime error of #2044, which can be fixed but I don't feel like debugging it right now. The class included in this project can be easily used in any project since all the functions are static.</center>
+ <p>Currently has a runtime error of #2044, which can be fixed but I don't feel like debugging it right now. The class included in this project can be easily used in any project since all the functions are static.</p>
 
 -----
 
