@@ -1,8 +1,10 @@
 # AS3 Estimated File Download Time
+
  An example of an ActionScript 3.0 class that can calculate a user's download speed, which can then be used to determine the total time left for a specific file to be downloaded.
 
 <b>NOTE:</b>
-<p style="border: black 1px; border-style: solid; border-radius: 8px;">Currently has a runtime error of #2044, which can be fixed but I don't feel like debugging it right now. The class included in this project can be easily used in any project since all the functions are static.</p>
+
+# hi <p style="border: black 1px; border-style: solid; border-radius: 8px;">Currently has a runtime error of #2044, which can be fixed but I don't feel like debugging it right now. The class included in this project can be easily used in any project since all the functions are static.</p>
 
 -----
 
