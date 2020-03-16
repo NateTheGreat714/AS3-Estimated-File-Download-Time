@@ -37,4 +37,4 @@ function onLoadProgress(e:ProgressEvent):void
 <b>Note:</b>
 <p><b>Please read the Example File.fla code comments to see how you can implement this into your own Adobe AIR or AS3 projects!</b></p>
 
-<p><b>Also, just for the record, the carson.utils.NetworkSpeedUtils class works and has no errors or bugs. The only issue is in the Example File.fla Frame 1 code - Just to clarify that the class is still usable in any ActionScript 3.0 Project.</b></p>
+<h1><b><u>Also, just for the record, the carson.utils.NetworkSpeedUtils class works and has no errors or bugs. The only issue is in the Example File.fla Frame 1 code - Just to clarify that the class is still usable in any ActionScript 3.0 Project.</u></b></h1>
